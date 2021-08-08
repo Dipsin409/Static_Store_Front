@@ -3,9 +3,8 @@
                         body {
                             font-size: 67.5%;
                             font-family: Tahoma, Geneva, sans-serif;
-                            background-color;
-                            ;
-                            : #ac4f38 url(asset/paper_1332008.jp) no-repeat fixed top center margin: 0;
+                            background-color: #ac4f38 url(asset/paper_1332008.jp) no-repeat fixed top center;
+                            margin: 0;
                             padding: 0;
                             -webkit-background-size: 100% 100%;
                             -moz-background-size: 100% 100%;
@@ -114,7 +113,7 @@
                             letter-spacing: 0.05em;
                         }
 
-                        color */
+                        /*color */
                         /*Nav Bars*/
 
                         nav {
